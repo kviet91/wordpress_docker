@@ -1,0 +1,67 @@
+
+---Downloaded files---
+The import files for: Melbourne were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8000
+Data file = /var/www/html/wp-content/uploads/2020/06/demo-content-import-file_2020-06-16__19-08-58.xml
+Widget file = /var/www/html/wp-content/uploads/2020/06/demo-widgets-import-file_2020-06-16__19-08-58.json
+Customizer file = /var/www/html/wp-content/uploads/2020/06/demo-customizer-import-file_2020-06-16__19-08-58.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Filter Top Bar : 
+
+Rey Filter - by Category - No Title - Imported
+Rey Filter - by Attribute - No Title - Imported
+Rey Filter - by Attribute - No Title - Imported
+Rey Filter - by Attribute - No Title - Imported
+Rey Filter - by Attribute - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing Theme Config---
+The config file was successfully parsed!
+
+---Importing Theme Config---
+The processes: rey-theme, options, pages, remove_pages, nav, upload-path, source-path were added.
+
+---Importing Revolution Slider---
+The Revolution Slider file was successfully downloaded!
+
+---Importing Theme Config---
+The Revolution Slider's bundled slider has been imported.
+
+---pt-ocdi/after_import---
+
+
+---End---
+Time elapsed to import - 00:03:10 .
